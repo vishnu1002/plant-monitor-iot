@@ -5,7 +5,7 @@ Plant growth monitoring IoT device using ESP32 and data logging in Google Spread
 ### Sensors Used
 
 - ESP32
-- Capctative Soil Moisture Sensors
+- Capacitive Soil Moisture Sensors
 - DHT22
 
 
